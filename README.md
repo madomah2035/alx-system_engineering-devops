@@ -1,2 +1,1 @@
-This is the beginnig of my shell journey
-
+The start of my journey to Shell
