@@ -1,1 +1,1 @@
-This is shell variables expansions
+# This is shell variables and expansions
